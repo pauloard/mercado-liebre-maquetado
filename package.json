@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pauloard/mercado-liebre-maquetado/issues"
   },
-  "homepage": "https://github.com/pauloard/mercado-liebre-maquetado#readme"
+  "homepage": "https://github.com/pauloard/mercado-liebre-maquetado#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
